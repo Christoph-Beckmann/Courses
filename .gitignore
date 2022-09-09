@@ -1,0 +1,28 @@
+# Mac-OS
+.DS_Store
+
+# Activity Data
+Sublime User Folder/FileHistory*.json
+ backed up & git can't handle nested repos)
+shimmering-obsidian
+alfred-bibtex-citation-picker
+pdf-annotation-extractor-alfred
+Sublime User Folder/AutoFoldCode.sublime-settings
+sync.log
+some.log
+.zsh_history
+# redundant
+.config/karabiner/automatic_backups
+
+# -------------------------------------------------------------
+
+# in case of accidental saving of such files in the repo
+*.mp4
+*.part
+
+# safety net in case sensitive data is accidentally moved
+pw.*
+*.kdb
+*.kdbx
+*.pfx
+*.key
