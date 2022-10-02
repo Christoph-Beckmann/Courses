@@ -15,8 +15,6 @@ some.log
 *.part
 
 # safety net in case sensitive data is accidentally moved
+credentials.*
 pw.*
-*.kdb
-*.kdbx
-*.pfx
 *.key
