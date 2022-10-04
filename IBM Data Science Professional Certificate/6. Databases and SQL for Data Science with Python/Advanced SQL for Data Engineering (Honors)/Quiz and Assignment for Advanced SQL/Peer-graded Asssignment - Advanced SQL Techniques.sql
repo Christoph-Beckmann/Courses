@@ -1,4 +1,3 @@
-
 --Databases and SQL for Data Science with Python: Week 6 Bonus Module: Advanced SQL for Data Engineer (Honors): Final Project: Advanced SQL Techniques
 
 -- Final Assignment is accessable under: https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DB0201EN-SkillsNetwork/labs/BonusModule_Coursera_v5/FinalProject_BonusModule.md.html?origin=www.coursera.org
