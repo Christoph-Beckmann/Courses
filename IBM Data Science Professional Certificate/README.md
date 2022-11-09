@@ -45,12 +45,12 @@ Read more below:
 | No. | Course                                                                                  |
 |:---:| --------------------------------------------------------------------------------------- |
 | 1.  | [What is Data Science?](1._What_is_Data_Science)                                        |
-| 2.  | [Tools for Data Science](2. Tools_for_Data_Science)                                     |
-| 3.  | [Data Science Methodology](3. Data_Science_Methodology)                                 |
-| 4.  | [Python for Data Science and AI](4. Python for Data Science, AI & Development)          |
-| 5.  | [Python Project for Data Science](5. Python Project for Data Science)                   |
-| 6.  | [Databases and SQL for Data Science](6. Databases and SQL for Data Science with Python) |
-| 7.  | [Data Analysis with Python](6. Data Analysis with Python)                               |
-| 8.  | [Data Visualization with Python](7. Data Visualization with Python)                     |
-| 9.  | [Machine Learning with Python](8. Machine Learning with Python)                         |
-| 10. | [Applied Data Science Capstone](10. Applied Data Science Capstone)                      |
+| 2.  | [Tools for Data Science](2._Tools_for_Data_Science)                                     |
+| 3.  | [Data Science Methodology](3._Data_Science_Methodology)                                 |
+| 4.  | [Python for Data Science and AI](4._Python_for_Data_Science,_AI_&_Development)          |
+| 5.  | [Python Project for Data Science](5._Python_Project_for_Data_Science)                   |
+| 6.  | [Databases and SQL for Data Science](6._Databases_and_SQL_for_Data_Science_with_Python) |
+| 7.  | [Data Analysis with Python](7._Data_Analysis_with_Python)                               |
+| 8.  | [Data Visualization with Python](8._Data_Visualization_with_Python)                     |
+| 9.  | [Machine Learning with Python](9._Machine_Learning_with_Python)                         |
+| 10. | [Applied Data Science Capstone](10._Applied_Data_Science_Capstone)                      |
