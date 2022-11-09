@@ -44,7 +44,7 @@ Read more below:
 
 | No. | Course                                                                                  |
 |:---:| --------------------------------------------------------------------------------------- |
-| 1.  | [What is Data Science?](1. What_is_Data_Science)                                        |
+| 1.  | [What is Data Science?](1._What_is_Data_Science)                                        |
 | 2.  | [Tools for Data Science](2. Tools_for_Data_Science)                                     |
 | 3.  | [Data Science Methodology](3. Data_Science_Methodology)                                 |
 | 4.  | [Python for Data Science and AI](4. Python for Data Science, AI & Development)          |
