@@ -21,7 +21,7 @@ In addition to earning a Professional Certificate from Coursera, you'll also rec
 ## Applied Learning Project
 This Professional Certificate has a strong emphasis on applied learning. Except for the first course, all other courses include a series of hands-on labs in the IBM Cloud that will give you **practical skills with applicability to real jobs**, including:
 
-**Tools:** Jupyter / JupyterLab, GitHub, R Studio, and Watson Studio
+**Tools:** Jupyter / JupyterLab, GitHub, R Studio, and Watson Studios
 
 **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Folium, ipython-sql, Scikit-learn, ScipPy, etc.
 
@@ -32,13 +32,18 @@ Read more below:
 **Course Link:** [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science)
 
 ## Instructors
-- Alex Aklson
-- Polong Lin
-- Romeo Kienzler
-- Svetlana Levitan
-- Joseph Santarcangelo
 - Rav Ahuja
+- Alex Akison
+- Aije Egwaikhide
+- Svetlana Levitan
+- Romeo Kienzler
+- Polong Lin
+- Joseph Santarcangelo
+- Azim Hirjani
+- Hima Vasudevan
+- Saishruthi Swaminathan
 - SAEED AGHABOZORGI
+- Yan Luo
 
 ## Specialization Overview
 
