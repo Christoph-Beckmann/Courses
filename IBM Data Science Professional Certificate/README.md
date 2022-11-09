@@ -42,7 +42,7 @@ Read more below:
 - Azim Hirjani
 - Hima Vasudevan
 - Saishruthi Swaminathan
-- SAEED AGHABOZORGI
+- Saeed Aghabozorgi
 - Yan Luo
 
 ## Specialization Overview
