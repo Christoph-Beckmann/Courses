@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-	<img src="https://github.com/ChristophBeckmann/Courses/blob/main/IBM%20Data%20Science%20Professional%20Certificate/ibm.svg" title="IBM" alt="IBM" />
+	<img src="https://raw.githubusercontent.com/Christoph-Beckmann/Courses/main/IBM-Data-Science-Professional-Certificate/ibm.svg" title="IBM" alt="IBM" />
 </p>
 
 <br>
@@ -12,7 +12,7 @@ Course link: [Data Science Methodology](https://www.coursera.org/learn/python-pr
 
 ## Instructors 
 - Azim Hirjani
-Joseph Santarcangelo
+- Joseph Santarcangelo
 
 ## Syllabus
 
