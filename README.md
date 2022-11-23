@@ -6,7 +6,7 @@ Therefore look [here](https://github.com/Christoph-Beckmann/Christoph-Beckmann/t
 ## Finished Courses 
 
 ### [IBM  Data Science Professional Certificate](https://github.com/Christoph-Beckmann/Courses/tree/main/IBM-Data-Science-Professional-Certificate):
-Contains 10 courses:
+Contains ten courses:
 1. What is Data Science?
 2. Tools for Data Science
 3. Data Science Methodology
